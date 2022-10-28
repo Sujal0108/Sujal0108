@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sujal0108
-- 👀 I’m interested in ...
+- 👀 I’m interested in Web development
 - 🌱 I’m currently learning at Lovely Professional University
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me at my mail ( sujalaggarwal36@gmail.com )
